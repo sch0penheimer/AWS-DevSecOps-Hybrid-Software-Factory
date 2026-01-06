@@ -1,11 +1,11 @@
 
 ---
-> **Last Updated:** October 26th, 2025
+> **Last Updated:** January 6th, 2025
 >
 > **Author:** [Haitam Bidiouane](https://linkedin.com/in/haitam-bidiouane/)
 ---
 
-# AWS DevSecOps Hybrid CI/CD Factory
+# AWS DevSecOps Hybrid Software Factory
 
 This project implements a fully automated Hybrid DevSecOps Factory/Platform on AWS, designed to enforce security and compliance at every stage of the software delivery lifecycle, while decoupling <ins>**the CI/CD pipeline and related resources**</ins> from <ins>**the main platform**</ins> that hosts ECS EC2-based containerized application workloads, respectively via AWS CloudFormation and Terraform, hence the "Hybrid" label.
 
